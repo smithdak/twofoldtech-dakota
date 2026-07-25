@@ -2,44 +2,37 @@
 
 ### I build things that build things.
 
-Agentic systems, AI tooling, and enterprise digital solutions.
-
-Fullstack Solutions Architect · Kansas City, MO
-
-[daksmith.dev](https://daksmith.dev/) · [twofold.tech](https://www.twofold.tech/) · [LinkedIn](https://www.linkedin.com/in/dakota-smith-a855b230)
+Agentic systems for organizations that can't afford to get it wrong.
 
 ---
 
-## What I'm building
+## The problem I keep working on
 
-At **[Twofold](https://www.twofold.tech/)** — *two humans, hundreds of agents.*
+Every organization wants agents doing real work. Almost none of them can answer the question that follows: how do you let an agent act without losing the ability to say what happened, why it was allowed, and whether it was correct.
 
-| | |
-|---|---|
-| **[Dossier](https://github.com/smithdak/dossier)** `beta` | Institutional memory you own, not rent |
-| **Bridge** `beta` | Plain language in. Production-grade software out |
-| **[ObjectCore](https://github.com/smithdak/objectcore)** `alpha` | A self-building plugin marketplace for Claude Code |
+That answer is infrastructure, not prompting. Permission before the act, evidence after it — recorded on one log, replayable rather than asserted. Agents propose, humans dispose, and everything an agent touches leaves a trail you can audit later.
 
-## Open source
+I've built it four different ways, in two languages, to find out which parts hold up.
 
-**Agent systems** — [apl](https://github.com/smithdak/apl) · [ORC](https://github.com/smithdak/ORC) · [studio](https://github.com/smithdak/studio) · [plugin-hive](https://github.com/smithdak/plugin-hive)
+## Selected work
 
-**Plugin frameworks** — [skillsmith](https://github.com/smithdak/skillsmith) · [plugin-architect](https://github.com/smithdak/plugin-architect) · [plugin-cms-toolkit](https://github.com/smithdak/plugin-cms-toolkit) · [claude-marketplace](https://github.com/smithdak/claude-marketplace)
-
-**Infrastructure** — [base](https://github.com/smithdak/base) · [conduit](https://github.com/smithdak/conduit) · [starter-template](https://github.com/smithdak/starter-template)
-
-**Enterprise CMS + agents** — [sitecore-orchestration-blueprint](https://github.com/smithdak/sitecore-orchestration-blueprint) · [plugin-migration-planner](https://github.com/smithdak/plugin-migration-planner) · [azure-devops-claude-auto-pr](https://github.com/smithdak/azure-devops-claude-auto-pr)
+| Project | What it is | Status |
+|---|---|---|
+| **[rezidnt](https://github.com/rezidnt/rezidnt)** | A local-first daemon running a fleet of coding agents under policy — permission checked before every action, evidence recorded after, both on one auditable log. Rust. | `alpha` |
+| **[Dossier](https://github.com/smithdak/dossier)** | Institutional memory an organization owns outright — agents extend it, humans approve, and approved work compounds into the company's own git history. | `beta` |
+| **[ObjectCore](https://github.com/smithdak/objectcore)** | A software factory for AI tooling whose output isn't plugins — it's the system that produces and governs them. Live registry, 14 plugins. | `live` |
+| **[Skillsmith](https://github.com/smithdak/skillsmith)** | A compiler and quality gate for agent skills — schema, security, and trigger evals all run before anything ships. | `live` |
 
 ## Writing
 
-I write about agentic engineering at **[daksmith.dev](https://daksmith.dev/)** — orchestration patterns, agent tooling, harness design, and security.
+[daksmith.dev](https://daksmith.dev/) — orchestration patterns, agent tooling, harness design, and the security model underneath it. Most recently on durable agent orchestration: moving coordination into workflow steps instead of trusting a coordinator agent to hold it together.
 
-Most recent: *Durable Agent Orchestration with Claude Managed Agents* — on moving orchestration into durable workflow steps instead of leaning on a coordinator agent.
+## Before this
 
-## Background
+Shipping enterprise digital platforms since 2012 — Sitecore, Umbraco, Optimizely, .NET, Azure — for organizations where the constraints were real and the rollback plan mattered.
 
-Shipping enterprise digital platforms since 2012 — Sitecore, Umbraco, Optimizely, .NET, and Azure — as a Senior Fullstack Engineer at RBA Consulting and founder of Twofold. Sitecore XM Cloud certified.
+That part is what most AI work is missing.
 
-These days that experience points in one direction: getting agents to do real, durable, production-grade engineering work inside systems that actually have constraints.
+---
 
-<sub>Open to interesting problems — [let's talk](https://www.linkedin.com/in/dakota-smith-a855b230).</sub>
+[daksmith.dev](https://daksmith.dev/) · [LinkedIn](https://www.linkedin.com/in/dakota-smith-a855b230)
