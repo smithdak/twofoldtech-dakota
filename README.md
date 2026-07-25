@@ -1,78 +1,45 @@
 # Dakota Smith
 
-**Full Stack Architect** · Kansas City, MO
+### I build things that build things.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dakota-smith-a855b230)
-[![TwofoldTech](https://img.shields.io/badge/TwofoldTech-FF5722?style=for-the-badge&logo=briefcase&logoColor=white)](https://www.twofold.tech/)
-[![Blog](https://img.shields.io/badge/Tech_Blog-1a1a2e?style=for-the-badge&logo=hashnode&logoColor=white)](https://dak-dev.vercel.app/)
+Agentic systems, AI tooling, and enterprise digital solutions.
 
----
+Fullstack Solutions Architect · Kansas City, MO
 
-## Expertise
-
-### Enterprise CMS
-![Sitecore](https://img.shields.io/badge/Sitecore-EB1F1F?style=flat-square&logo=sitecore&logoColor=white)
-![Umbraco](https://img.shields.io/badge/Umbraco-3544B1?style=flat-square&logo=umbraco&logoColor=white)
-![Optimizely](https://img.shields.io/badge/Optimizely-0037FF?style=flat-square&logo=optimizely&logoColor=white)
-
-### Frontend
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-
-### Backend
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=flat-square&logo=azurefunctions&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-### Data & Search
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-742774?style=flat-square&logo=microsoftazure&logoColor=white)
-![Solr](https://img.shields.io/badge/Apache_Solr-D9411E?style=flat-square&logo=apachesolr&logoColor=white)
-![Coveo](https://img.shields.io/badge/Coveo-FF6E42?style=flat-square&logoColor=white)
-
-### DevOps & Tools
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+[daksmith.dev](https://daksmith.dev/) · [twofold.tech](https://www.twofold.tech/) · [LinkedIn](https://www.linkedin.com/in/dakota-smith-a855b230)
 
 ---
 
-## Certifications
+## What I'm building
 
-| Certification | Issuer | Status |
-|--------------|--------|--------|
-| Sitecore XM Cloud Certified Developer | Sitecore | ✓ |
-| Sitecore 9 Certified Developer | Sitecore | ✓ |
-| Microsoft Certified Professional | Microsoft | ✓ |
-| Microsoft Certified Technology Specialist | Microsoft | ✓ |
-| Shopify Developer Certification | Shopify | In Progress |
+At **[Twofold](https://www.twofold.tech/)** — *two humans, hundreds of agents.*
 
----
+| | |
+|---|---|
+| **[Dossier](https://github.com/smithdak/dossier)** `beta` | Institutional memory you own, not rent |
+| **Bridge** `beta` | Plain language in. Production-grade software out |
+| **[ObjectCore](https://github.com/smithdak/objectcore)** `alpha` | A self-building plugin marketplace for Claude Code |
 
-## Career Highlights
+## Open source
 
-```
-2023 - Present   Senior Fullstack Engineer @ RBA Consulting
-2020 - Present   Founder & Tech Lead @ TwofoldTech
-2019 - 2020      Senior Fullstack Engineer @ XCentium
-2016 - 2019      Senior Fullstack Engineer @ Aware
-2014 - 2016      Fullstack Engineer @ AJi Software
-2012 - 2013      Fullstack Engineer @ Roundedcube
-```
+**Agent systems** — [apl](https://github.com/smithdak/apl) · [ORC](https://github.com/smithdak/ORC) · [studio](https://github.com/smithdak/studio) · [plugin-hive](https://github.com/smithdak/plugin-hive)
 
----
+**Plugin frameworks** — [skillsmith](https://github.com/smithdak/skillsmith) · [plugin-architect](https://github.com/smithdak/plugin-architect) · [plugin-cms-toolkit](https://github.com/smithdak/plugin-cms-toolkit) · [claude-marketplace](https://github.com/smithdak/claude-marketplace)
 
+**Infrastructure** — [base](https://github.com/smithdak/base) · [conduit](https://github.com/smithdak/conduit) · [starter-template](https://github.com/smithdak/starter-template)
 
-<sub>[Let's connect →](https://www.linkedin.com/in/dakota-smith-a855b230)</sub>
+**Enterprise CMS + agents** — [sitecore-orchestration-blueprint](https://github.com/smithdak/sitecore-orchestration-blueprint) · [plugin-migration-planner](https://github.com/smithdak/plugin-migration-planner) · [azure-devops-claude-auto-pr](https://github.com/smithdak/azure-devops-claude-auto-pr)
+
+## Writing
+
+I write about agentic engineering at **[daksmith.dev](https://daksmith.dev/)** — orchestration patterns, agent tooling, harness design, and security.
+
+Most recent: *Durable Agent Orchestration with Claude Managed Agents* — on moving orchestration into durable workflow steps instead of leaning on a coordinator agent.
+
+## Background
+
+Shipping enterprise digital platforms since 2012 — Sitecore, Umbraco, Optimizely, .NET, and Azure — as a Senior Fullstack Engineer at RBA Consulting and founder of Twofold. Sitecore XM Cloud certified.
+
+These days that experience points in one direction: getting agents to do real, durable, production-grade engineering work inside systems that actually have constraints.
+
+<sub>Open to interesting problems — [let's talk](https://www.linkedin.com/in/dakota-smith-a855b230).</sub>
